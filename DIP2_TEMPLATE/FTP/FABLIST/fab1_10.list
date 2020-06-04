@@ -1,0 +1,1 @@
+FAB1 ALL /home/boreport/cdata mxdssqa1 boreport FTP_INFO.DIA_mxdssqa1_PW all_dir 10 ALL /home/boreport/test mxdssqa1 boreport FTP_INFO.DIA_mxdssqa1_PW MIF@Macronix.com.tw MQ jobname MAPPING NTC_WIP=MQ_SapMm_Gr_1,NTC_GR=MQ_SapMm_Gr_2, test1 /u03/project/XSCM/cdata
